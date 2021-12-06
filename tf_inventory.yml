@@ -1,5 +1,4 @@
 ---
-#terraform_plugin.yaml
 
 plugin: terraform 
 project_path: tf
