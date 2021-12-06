@@ -1,4 +1,4 @@
-# terra-builder
+# terra-ansible
 Terraform & Ansible integration.
 
 ### Init Terraform
