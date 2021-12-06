@@ -1,0 +1,8 @@
+---
+- hosts: localhost
+  tasks:
+  - name: Destroy instances
+    community.general.terraform:
+      project_path: 'tf/'
+      state: absent
+      workspace: terrabuilder
